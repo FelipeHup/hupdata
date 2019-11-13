@@ -6,7 +6,10 @@ www.hupdata.com
 
 online
 
-testando conexão com repositorio remoto
+testando conexão com repositorio remoto 
+
+funcionou
+
 
 
 
